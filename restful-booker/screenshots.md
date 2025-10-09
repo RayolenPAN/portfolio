@@ -1,4 +1,4 @@
-Ссылка на api: https://restful-booker.herokuapp.com/apidoc/index.html
+Ссылка на api: https://restful-booker.herokuapp.com/apidoc/index.html  
 Коллекция:
 
 Auth
