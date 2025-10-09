@@ -28,4 +28,4 @@
 
 **Артефакт:**
 - [Скриншот коллекции запросов в Postman](restful-booker/screenshots.md)
-- [Окружение и коллекция](restful-booker/screenshots.md)
+- [Окружение и коллекция](restful-booker/postman_files)
