@@ -7,7 +7,8 @@ Auth
 ![ошибка](images/a2.png)  
 Get_Booking  
 ![ошибка](images/gb.png)  
-Get_Booking_DEL
+Get_Booking_DEL  
+![ошибка](images/gbd.png)  
 Create_Booking
 Create_Booking_DEL
 Delete_Booking
