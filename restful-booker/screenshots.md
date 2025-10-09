@@ -1,5 +1,6 @@
 Ссылка на api: https://restful-booker.herokuapp.com/apidoc/index.html  
-Коллекция:
+Коллекция:  
+![ошибка](images/collections.png)
 
 Auth
 Get_Booking
