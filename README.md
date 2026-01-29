@@ -26,8 +26,16 @@
 
 **Описание проекта:** Ознакомление с основами тестирования API через отправку HTTP-запросов и анализ ответов.
 
-**Артефакт:**
+**Ссылки:**
 - [Скриншот коллекции запросов в Postman](restful-booker/screenshots.md)
 - [Окружение и коллекция](restful-booker/postman_files)
+
+### Проект 3: Автоматическое тестирование веб-сайта [Swag Lab]( https://www.saucedemo.com/)
+
+**Описание проекта:** Тестирование авторизации на сайте Swag Lab с помощью python, pytest и playwright
+
+**Ссылки:**
+- [Репозиторий с окружением и тестами](https://github.com/RayolenPAN/test_exercise_login)
+
   
 
